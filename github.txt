@@ -1,0 +1,6 @@
+1. mkdir git-test
+2. cd git-test
+3. git init
+4. git git remote add origin https://github.com/Caleb-SangYoon-Lee/git-test.git
+######################################
+5. git pull origin master
